@@ -1,1 +1,2 @@
-# AccountUpdate
+# Gamehub
+This website is for... educational purposes...
