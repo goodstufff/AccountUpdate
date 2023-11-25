@@ -1,1 +1,0 @@
-<iframe src="https://3kh0.github.io/projects/soccer-skills/index.html" allowtransparency="true" width="1470 " height="699" frameborder="0" scrolling="no" allowfullscreen></iframe>
